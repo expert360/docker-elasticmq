@@ -1,7 +1,5 @@
 # ElasticMQ Docker Image
 
-Based on [`java:7-jre`](https://registry.hub.docker.com/_/java/).
-
 Provides [ElasticMQ](https://github.com/adamw/elasticmq).
 
 ## Supported tags and respective `Dockerfile` links
