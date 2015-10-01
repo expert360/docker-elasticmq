@@ -3,7 +3,8 @@
 Provides [ElasticMQ](https://github.com/adamw/elasticmq).
 
 ## Supported tags and respective `Dockerfile` links
- * [`latest`, `0.8.7` (Dockerfile)](https://github.com/expert360/docker-elasticmq/blob/master/Dockerfile)
+ * [`latest`, `0.8.12` (Dockerfile)](https://github.com/expert360/docker-elasticmq/blob/master/Dockerfile)
+ * [`0.8.7` (Dockerfile)](https://github.com/expert360/docker-elasticmq/blob/0.8.7/Dockerfile)
 
 ## expert360/elasticmq:latest
 
