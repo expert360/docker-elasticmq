@@ -1,7 +1,7 @@
 FROM alpine:3.2
 FROM anapsix/alpine-java:8_server-jre
 
-ENV ELASTICMQ_VERSION 0.12.1
+ENV ELASTICMQ_VERSION 0.13.8
 EXPOSE 9324
 
 CMD ["java", "-jar", "-Dconfig.file=/elasticmq/custom.conf", "/elasticmq/server.jar"]
